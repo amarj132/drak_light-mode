@@ -20,7 +20,7 @@ const Navbar = () => {
                 onChange={toggleTheme}
                 checked={theme === "dark"}
             />
-            <span className="slider round"></span>
+            <span className="slider"></span>
         </label>
       </div>
     </nav>
